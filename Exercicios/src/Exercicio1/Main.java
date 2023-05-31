@@ -19,5 +19,7 @@ public class Main {
         numeros.add(8);
 
         System.out.println(numeros);
+
+        //representa uma lista ordenada de elementos.
     }
 }

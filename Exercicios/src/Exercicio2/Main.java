@@ -18,5 +18,7 @@ public class Main {
         numero.add(8);
         numero.add(8);
         System.out.println(numero);
+
+        //representa uma coleção que não permite elementos duplicados.
     }
 }
